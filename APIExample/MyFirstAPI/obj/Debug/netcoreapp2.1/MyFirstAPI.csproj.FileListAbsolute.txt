@@ -1,0 +1,16 @@
+C:\Users\Dhruvi\Desktop\API Core\APICore\APIExample\MyFirstAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Dhruvi\Desktop\API Core\APICore\APIExample\MyFirstAPI\bin\Debug\netcoreapp2.1\MyFirstAPI.deps.json
+C:\Users\Dhruvi\Desktop\API Core\APICore\APIExample\MyFirstAPI\bin\Debug\netcoreapp2.1\MyFirstAPI.runtimeconfig.json
+C:\Users\Dhruvi\Desktop\API Core\APICore\APIExample\MyFirstAPI\bin\Debug\netcoreapp2.1\MyFirstAPI.runtimeconfig.dev.json
+C:\Users\Dhruvi\Desktop\API Core\APICore\APIExample\MyFirstAPI\bin\Debug\netcoreapp2.1\MyFirstAPI.dll
+C:\Users\Dhruvi\Desktop\API Core\APICore\APIExample\MyFirstAPI\bin\Debug\netcoreapp2.1\MyFirstAPI.pdb
+C:\Users\Dhruvi\Desktop\API Core\APICore\APIExample\MyFirstAPI\obj\Debug\netcoreapp2.1\MyFirstAPI.csprojAssemblyReference.cache
+C:\Users\Dhruvi\Desktop\API Core\APICore\APIExample\MyFirstAPI\obj\Debug\netcoreapp2.1\MyFirstAPI.AssemblyInfoInputs.cache
+C:\Users\Dhruvi\Desktop\API Core\APICore\APIExample\MyFirstAPI\obj\Debug\netcoreapp2.1\MyFirstAPI.AssemblyInfo.cs
+C:\Users\Dhruvi\Desktop\API Core\APICore\APIExample\MyFirstAPI\obj\Debug\netcoreapp2.1\MyFirstAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dhruvi\Desktop\API Core\APICore\APIExample\MyFirstAPI\obj\Debug\netcoreapp2.1\MyFirstAPI.RazorAssemblyInfo.cache
+C:\Users\Dhruvi\Desktop\API Core\APICore\APIExample\MyFirstAPI\obj\Debug\netcoreapp2.1\MyFirstAPI.RazorAssemblyInfo.cs
+C:\Users\Dhruvi\Desktop\API Core\APICore\APIExample\MyFirstAPI\obj\Debug\netcoreapp2.1\MyFirstAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Dhruvi\Desktop\API Core\APICore\APIExample\MyFirstAPI\obj\Debug\netcoreapp2.1\MyFirstAPI.dll
+C:\Users\Dhruvi\Desktop\API Core\APICore\APIExample\MyFirstAPI\obj\Debug\netcoreapp2.1\MyFirstAPI.pdb
+C:\Users\Dhruvi\Desktop\API Core\APICore\APIExample\MyFirstAPI\obj\Debug\netcoreapp2.1\MyFirstAPI.genruntimeconfig.cache
